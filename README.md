@@ -12,9 +12,9 @@ I'm a [Codeable](https://www.codeable.io/developers/david-beja/) expert with **1
 ### 🔌 My WordPress Plugins
 I'm the main developer of several public WordPress plugins:
 
-- [Captain Hooks](https://wordpress.org/plugins/captain-hooks/): Easily manage WordPress hooks in the admin panel.
+- [Captain Hooks](https://wordpress.org/plugins/captain-hooks/): Easily explore all WordPress hooks of your installation.
 - [Quick Admin Launcher](https://wordpress.org/plugins/quick-admin-launcher/): Speed up your admin workflow with quick launch shortcuts.
-- [Author Box WP Lens](https://wordpress.org/plugins/author-box-for-divi/): A clean and customizable author box for Divi.
+- [Author Box WP Lens](https://wordpress.org/plugins/author-box-for-divi/): A clean and customizable author box.
 - [AI Image Alt Text Generator](https://wordpress.org/plugins/alt-text-imagerr-ai/): Automatically generate SEO-friendly alt text for images using AI.
 
 ---
